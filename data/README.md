@@ -1,1 +1,3 @@
-Please download the data in *.npz format from [here](https://box.bic.mni.mcgill.ca/s/umlSlqh1HSvYmuR) (1.7G)
+Download data from here:
+
+https://owncloud.gwdg.de/index.php/s/5K2UlLim8D640B6
